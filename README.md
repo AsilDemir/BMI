@@ -1,2 +1,2 @@
 # BMI
-Vücut kitle indeksine göre diyet listesi hazırlama.
+Program that prepares a diet list according to BMI
